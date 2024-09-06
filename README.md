@@ -10,15 +10,16 @@ Select Two Countries: Use dropdowns to select two countries for comparison.
 Accurate Calculations: Get results to four decimal places.
 Sorting by Name: The countries are sorted alphabetically to make selection easier.
 Real-World Data: The data is pulled from Wikipedia’s "List of countries and dependencies by area." from the following link:
+
 https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area
-Dataset
 
 The dataset is sourced from Wikipedia's list of countries by area, ensuring accurate, real-world calculations. It includes each country's total area (in square kilometers). You can also access the dataset from the GitHub repository:
+
 (https://github.com/Barryal82/countries_by_area.py/blob/main/countries_by_area.csv)
 
 # Setup Instructions
 
-Prerequisites
+*Prerequisites*
 Python 3.x installed on your machine.
 Libraries: Install required libraries with pip install pandas.
 
